@@ -1,2 +1,2 @@
 # python1
-my Repository for my thon
+my Repository to learn python
